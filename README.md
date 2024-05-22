@@ -3,7 +3,7 @@ Marketplace for hiring individuals to complete tasks from small hammer paint to 
 Unfortunatelly project wasn't finished, maybe some day.
 Initial planning was: practical visualization and them moving to back end on php with mysql 
 
-available for preview pages:
+available for preview pages: \n
 https://hsergejs.github.io/LaborExchangeWebsiteDesign/index.html
 login/register/forgot password popups from the menu.
 https://hsergejs.github.io/LaborExchangeWebsiteDesign/all_categories.html
